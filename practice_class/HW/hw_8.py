@@ -1,0 +1,5 @@
+print(10/2)
+print("Sathya","Tech")
+print("Core","-","Python")
+print("\n","Sathya","-","Tech")
+print("Python"+3)
