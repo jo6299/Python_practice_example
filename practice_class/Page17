@@ -47,21 +47,21 @@ iii) p, q, r = 2,6,9,7 -- In-valid
 iv) 25 = m -- In-valid
 v) p = 5 
    q = 10
-   p + q = r -- Valid
+   p + q = r -- inValid
 vi) x = 10 -- Valid
 vii) age = 25 -- Valid
 viii) gender = M -- Valid
 ix) rollno_ = 200 -- Valid
 x) mno = 9052492329 -- Valid
-xi) pin no=1234 -- Valid
+xi) pin no=1234 -- inValid
 xii) marks = 98.95 -- Valid
 xiii) salary = 25478.35 -- Valid
 xiv) pnr@no=1234567895 -- invalid
 xv) email="pythonwithnaveen@gmail.com" -- valid
 xvi) pnr_status=true -- Valid
 xvii) interest$rate = 8.2 -- in-valid
-xviii) creditcard1 -- valid
+xviii) creditcard1 -- invalid
 xix) $aadharno -- in-valid
 xx) break = 10 -- valid
-xxi) Break = 10 -- valid
+xxi) Break = 10 -- invalid
 xxii) 3000 = x -- in-valid
