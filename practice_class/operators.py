@@ -61,3 +61,13 @@ print(5+3*7-9>4+5*6 and 4<5)
 print(4**4)
 
 print(6*2-3/4+4-3//2)
+
+print(73^37)
+
+print (~73)
+
+a=3
+print (a<<2)
+
+a=13 
+print (a>>1)
