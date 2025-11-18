@@ -22,3 +22,4 @@ s = int(nub4)
 
 
 print(p+q+r-s)
+
