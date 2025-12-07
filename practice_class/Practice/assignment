@@ -1,0 +1,46 @@
+
+Funtion
+Yes
+x = int(varaible_name_assigned_to_string)
+x = float(varaible_name_assigned_to_string)
+we can enter any type of number maybe int or float
+Welcome To Sathya Technologies
+Enter your name : jo
+Welcome jo
+Enter 1st number: 500
+Enter 2nd number: 2
+502
+498
+1000
+250.0
+<class 'str'>
+Enter Student Frist Name: JO
+Enter Student Last Name: KANDLAKUNTA 
+Student Full Name:  JO KANDLAKUNTA
+Enter str value: 52
+int value is:  52
+Enter Student No: 4021547
+Enter Student Name: Jo
+Enter Marks1: 50  
+Enter Marks2: 60
+Enter Marks3: 70
+Total Marks:  180
+Average Marks:  60.0
+
+
+Enter fname: Joseph 
+Enter lname: Kandlakunta
+Joseph Kandlakunta
+
+
+<class 'str'>
+Enter any no: 5.2
+Enter any no: 63
+5.263
+Any no : 5
+5
+<class 'int'>
+Any no : 8.9
+8.9
+<class 'float'>
+

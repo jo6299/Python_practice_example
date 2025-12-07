@@ -1,0 +1,13 @@
+print("S@athya\"Tech\"")
+print("Hi\nStudents,This is Naveen,\nFrom Sathya Tech,AMPT.")
+print("Hello Students this is 'Naveen'\nI am a \"Python\" Faculty in \"Sathya\"\nMy Contact No is:'8367512151' ")
+print("Sathya"+"Tech")
+print(5+2)
+print( 12-6 )
+print("12"+"5")
+print(10/2)
+print("Sathya","Tech")
+print("Core","-","Python")
+print("\n","Sathya","-","Tech")
+print("Python"+3)
+

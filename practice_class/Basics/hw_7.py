@@ -1,0 +1,6 @@
+print("Sathya\n\tTech")
+print("sathya\n\t'Tech")
+#print("**Sathya Tech**)
+print("\n---Python---")
+print("\t\tNaveen\tKumar")
+print("\t\t=======")

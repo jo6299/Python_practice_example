@@ -1,0 +1,6 @@
+sim1 = int(input("Enter Sim1 cost: "))
+sim2 = int(input("Enter Sim2 cost: "))
+sim3 = int(input("Enter Sim3 cost: "))
+sim4 = int(input("Enter Sim4 cost: "))
+print("Total bill: ",sim1+sim2+sim3+sim4)
+

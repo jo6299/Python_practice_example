@@ -1,0 +1,18 @@
+no1 = float(input("1st No :"))
+no2 = float(input("2nd No :"))
+print("sum =",no1+no2)
+
+x = 256.641484135541
+print("Python-Lang Format :",x)
+print("C-Lang Format %f"%x)
+print("C-Lang Format %0.f"%x)
+print("C-Lang Format %0.1f"%x)
+print("C-Lang Format %0.2f"%x)
+print("C-Lang Format %0.3f"%x)
+print("C-Lang Format %0.4f"%x)
+print("C-Lang Format %0.5f"%x)
+print("C-Lang Format %0.6f"%x)
+print("C-Lang Format %0.7f"%x)
+print("C-Lang Format %0.8f"%x)
+print("C-Lang Format %0.9f"%x)
+print("C-Lang Format %0.10f"%x)
