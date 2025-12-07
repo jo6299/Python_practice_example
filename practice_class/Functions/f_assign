@@ -1,0 +1,87 @@
+1) What is function
+A) Finction is a collection of statements that performs an operation.
+
+2) Advantages of function
+A) To re-use anytime 
+
+3) How to define function
+A) def function_name():
+
+4) How to call functions
+A) function_name()
+
+5) Can we call a function inside of another function
+A) Yes
+
+6) How many times we can call a function
+A) Any number of times
+
+7) What is local variable
+A) A local variable is wich we declare insde a function
+
+8) What is scope of local variable
+A) from the declaration to the function ending
+
+9) Can we declare local variables with same name in different functions
+A) Yes
+
+10) How many ways we can declare functions
+ A) 4 ways
+
+11) What is arguments in functions and what are they.
+ A) An arguments is which are declared inside a paranthsis 
+
+12) What is parameter
+ A) A value or a variable which is declared inside a function header
+
+13) Can we pass multiple arguments
+ A) Yes
+
+14) What is named or keyword arguments
+ A) values that are matched by naming them
+
+15) Can we mix non-keyword arguments with keyword arguments
+ A) Yes
+
+16) What is a global variable
+ A) A variable which is declared inside a module and the outside the function
+
+17) What is the purpose of return statement in a function
+ A) To send a value back and use it where it was called outisde a function
+
+18) Can we return multiple values
+ A) Yes
+
+19) How many types of arguments are there in python and what are they?
+ A) 4 types, 
+   1. requried 
+   2. default
+   3. args 
+   4. keywordargs
+
+20) What is default arguments
+ A) which are declared from the start
+
+21) What is lambda function
+ A) Anonymous functions are called lambda function
+
+22) How to create Anonymous functions
+ A) lambda arguments: expression
+
+23) How many arguments can we pass to lambda functions
+ A) only one 
+
+24) Can we declare lambda functions with default arguments
+ A) 
+
+25) What’s the use of map( ) in lambda function
+ A)
+
+26) What’s the use of filter( ) function in lambda
+ A)
+
+27) What is use of reduce( ) function
+ A)
+ 
+28) What is recursive function
+ A)
